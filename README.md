@@ -1,7 +1,6 @@
 # 深度文章分析（深度阅读分析大师）
 
-> 基于唐嘉序的 WorkBuddy 分析公众号文章完整方法论，扩展适配所有类型网页内容的系统化深度分析 Skill。
-> 一句话：**先帮你汲取文章的洞见，再帮你检验洞见的可靠性——汲取在前，验证在后。**
+> 公众号、研报、播客文字稿——任何长内容丢给它，自动生成 10 板块深度分析（营养度评级、核心洞见、反思行动），同时输出 Markdown / HTML / Word / PDF，0 手动排版。
 
 ![Author](https://img.shields.io/badge/Author-小巷老张-blue) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Version](https://img.shields.io/badge/Version-v1.0-green) ![Platform](https://img.shields.io/badge/Platform-WorkBuddy-purple)
 
