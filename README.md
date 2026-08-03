@@ -191,6 +191,18 @@ playwright install chromium
 
 > 截图均由 `demo/screenshot.py`（Playwright 渲染）生成，可直接复现。
 
+## 📚 真实案例库
+
+[`demo/cases/`](demo/cases/) 目录收录了 **8 份真实运行报告**（全部由本 Skill 实际生成，非手工编写），覆盖三大主题：
+
+| 主题 | 数量 | 示例 |
+|------|:---:|------|
+| 🤖 AI 技术 | 4 份 | 三波人接力（DeepSeek）、技术平权、AI 产品从0到1、腾讯研究院 |
+| 📈 投资与商业 | 3 份 | 创新药长期主义、对话陆挺、大摩邢自强 |
+| 🧠 人物与组织 | 1 份 | 梁文锋向左-杨植麟向右 |
+
+每份都是完整的 10 板块报告。点击 [demo/cases/README.md](demo/cases/README.md) 查看全部索引。
+
 ## ⚙️ 可选集成：IMA 知识库上传
 
 报告生成后支持自动上传至 IMA 知识库（需自行配置 `~/.config/ima/client_id` 与 `api_key`，并填入你的知识库 ID / 文件夹 ID）。未配置凭证时自动跳过此功能，不影响核心分析。
