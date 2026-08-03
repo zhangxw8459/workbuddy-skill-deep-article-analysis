@@ -5,6 +5,8 @@ Produces a Word/WPS-compatible .docx with proper styling:
   - H1/H2/H3 with theme colors
   - Bold, lists, blockquotes, code blocks, tables
   - Page margins, fonts, footer
+
+Author: 小巷老张
 """
 
 import sys

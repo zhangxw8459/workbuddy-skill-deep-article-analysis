@@ -6,6 +6,7 @@ md2all.py v2 — 将 Markdown 分析报告转换为三格式：
 工作流：MD → HTML（完整CSS排版）→ PDF（Playwright浏览器渲染，与HTML完全一致）
 
 用法: python3 md2all.py <输入.md> [输出目录]
+作者: 小巷老张
 """
 
 import sys
